@@ -21,12 +21,14 @@ Kitchenware was not the only product influenced by East Asan design. This pinewo
 
 # Paragraph 2 Undecided 
 
-Paragraph text
+This is a test section. This section will be about another interesting import to Boston that people might not know about. 
 
-More paragraph text
+This is a second test paragraph. It will say something very interesting and include some good photos and archival material, too. 
 
 # Boston's Icy Export 
 
-Paragraph text
+This is a test paragraph for fomatting purposes. This paragraph will be about how ice was considered a luxury and about Frederic Tudor. Maybe it will include a photo of him, as well as some good information. 
 
-More paragraph text
+This will become another paragraph about Boston's ice exports. I think this is the most interesting topic. Hopefully people read this far! 
+
+![An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house.](https://www.bu.edu/files/2022/02/resize-Ice_Harvesting_Massachusetts_early_1850s-1.jpg)
