@@ -14,6 +14,9 @@ Paragraph text
 
 More paragraph text
 
+![Japanned pinewood cabinet decorated with Chinese landscapes and figures, designed by John Linnell, made by William Linnell, 1753, London. Museum no. W.55:1 to 24-1952. © Victoria and Albert Museum, London
+](https://vanda-production-assets.s3.amazonaws.com/2019/07/04/15/17/36/0f1ca61a-8909-435b-9b6f-8d6ca9327611/sidecupoard.jpg)
+
 # Paragraph 2 Undecided 
 
 Paragraph text
