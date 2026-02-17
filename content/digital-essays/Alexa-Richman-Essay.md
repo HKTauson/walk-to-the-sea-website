@@ -1,7 +1,7 @@
 ---
-location: beacon-hill
+location: Customs House
 title: My digital essay
-author: Comp U. Ter
+author: Alexa Richman
 ---
 
 # Markdown header 1
